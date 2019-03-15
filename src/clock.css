@@ -1,0 +1,11 @@
+.desc p{
+    margin-top :1%;
+    
+    
+}
+.desc{
+    display: flex;
+    margin-left: 2%;
+    margin-top: -2%;
+    justify-content: space-around;
+}
